@@ -1,4 +1,12 @@
-# Ignore list for Eagle, a PCB layout tool
+# Ignore list for Eagle, a PCB layout tool, and CCS
+
+Debug/
+
+Debug__GNU/
+
+Debug__TI/
+
+Release/
 
 # Backup files
 *.s#?
